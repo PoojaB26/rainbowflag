@@ -1,6 +1,6 @@
 # Rainbow Flag Animation
 
-Just a little gesture to celebrate the grand victory of the new found freedom of the LGBTQ community in India as Supreme Court finally legalizes gay sex on 6th September, 2018.
+Just a little gesture to celebrate the grand victory of the new found freedom of the LGBTQ community in India as Supreme Court finally decriminalizes homosexuality and abolishes Section377 on 6th September, 2018.
 
 The project is a modification of the Nhan Cao's original project [Flutter: Wave clipper Animation](https://medium.com/@nhancv/flutter-wave-clipper-animation-dc2017ddfcf3)
 
